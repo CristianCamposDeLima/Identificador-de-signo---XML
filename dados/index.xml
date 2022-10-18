@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="index1.xsd">
+
+    <signo_aries>
+        <nome>Aries</nome>
+        <data_nascimento>21 de março a 20 de abril</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Áries costuma viver no agora; além de possuir um grande prazer em existir, ação e decisão também podem ser algumas de suas marcas.
+        </caracteristicas>
+    </signo_aries>
+
+    <signo_touro>
+        <nome>Touro</nome>
+        <data_nascimento>21 de abril a 20 de maio</data_nascimento>
+        <caracteristicas>
+           Quem nasce com o sol no signo Touro pode se identificar com virtudes como a paciência, o bom gosto e a sensualidade. 
+        </caracteristicas>
+    </signo_touro>
+
+    <signo_gemeos>
+        <nome>Gêmeos</nome>
+        <data_nascimento>21 de maio a 20 de junho</data_nascimento>
+        <caracteristicas>
+            Quem nasce com o sol no signo de Gêmeos geralmente se identifica com características como a curiosidade, a inteligência e o desejo de liberdade.  
+        </caracteristicas>
+    </signo_gemeos>
+
+    <signo_cancer>
+        <nome>Câncer</nome>
+        <data_nascimento>21 de junho a 22 de julho</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Câncer costuma buscar o que lhe traz segurança. O signo é maternal e emotivo e tem uma proximidade com o apego ao passado.   
+        </caracteristicas>
+    </signo_cancer>
+
+    <signo_leao>
+        <nome>Leão</nome>
+        <data_nascimento>23 de julho a 22 de agosto</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Leão costuma amar plateias e aplausos. O signo tem a coragem e o humor como marcas registradas, mas também o orgulho e o autoritarismo. 
+        </caracteristicas>
+    </signo_leao>
+    
+    <signo_virgem>
+        <nome>Virgem</nome>
+        <data_nascimento>23 de agosto a 22 de setembro</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Virgem costuma buscar constantemente a perfeição, tudo sempre poderia estar um pouco melhor. Signo observador, que costuma identificar o detalhe que ninguém mais percebe.
+        </caracteristicas>
+    </signo_virgem>
+
+    <signo_libra>
+        <nome>Libra</nome>
+        <data_nascimento>23 de setembro a 22 de outubro</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Libra costuma buscar sempre o equilíbrio e conviver com a indecisão. Regido por Vênus, o signo tem uma aproximação natural com as artes.
+        </caracteristicas>
+    </signo_libra>
+
+    <signo_escorpiao>
+        <nome>Escorpião</nome>
+        <data_nascimento>23 de outubro a 21 de novembro</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Escorpião costuma ter muita perspicácia, não é a toa que são naturalmente detetives. O sexto sentido do signo alerta para possíveis “perigos” logo de cara.
+        </caracteristicas>
+    </signo_escorpiao>
+
+    <signo_sagitario>
+        <nome>Sagitário</nome>
+        <data_nascimento>22 de novembro a 21 de dezembro</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Sagitário costuma ser viajante, sua casa é o mundo inteiro. O signo viaja muito também em sua própria mente. Não tente aprisionar Sagitário de nenhuma forma, ele não aceita limites.
+        </caracteristicas>
+    </signo_sagitario>
+
+    <signo_capricornio>
+        <nome>Capricórnio</nome>
+        <data_nascimento>22 de dezembro a 20 de janeiro</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Capricórnio costuma ter seus propósitos e metas bem definidos. Signo de praticidade que segue as regras do jogo tem total noção dos seus limites. Capricórnio é maduro e bem humorado, mas também pode ser frio nas relações e um tanto pessimista.
+        </caracteristicas>
+    </signo_capricornio>
+
+    <signo_aquario>
+        <nome>Aquário</nome>
+        <data_nascimento>21 de janeiro a 18 de fevereiro</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Aquário costuma ter a amizade como cartão de visita e ter uma conexão intensa com a liberdade. Signo idealista, tende a dar preferência aos diálogos racionais. Aquário é solidário e humano, também pode ser radical e bem “do contra”. 
+        </caracteristicas>
+    </signo_aquario>
+
+    
+    <signo_peixes>
+        <nome>Peixes</nome>
+        <data_nascimento>21 de janeiro a 18 de fevereiro</data_nascimento>
+        <caracteristicas>
+            Quem tem sol em Peixes costuma entender tudo sem precisar de muitas palavras, possuem uma sensibilidade superior. Signo compassivo e inspirador, Peixes tende a ter uma forte conexão com a espiritualidade, mas pode se iludir com certa facilidade.
+        </caracteristicas>
+    </signo_peixes>
+</signos>
